@@ -1,4 +1,4 @@
-# Amazon_Sales_Data_Analysis
+# Amazon_Sales_Exploratory_Data_Analysis
 
 Amazon Sales Data Analysis is a Python-based data analysis project designed to extract, clean, analyze, and visualize sales data from Amazon. The project aims to provide insights into sales performance, product trends, customer behavior, and other key metrics that drive business decisions.
 
